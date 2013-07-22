@@ -1,2 +1,6 @@
-
 Ah distinctly I remember it was in the bleak December
+When i learned how to clone a git repo
+Then i committed new content to my branch
+And found out that it works in such a flow
+
+
